@@ -1,6 +1,7 @@
 <h1>Grab-A-Pup</h1>
 <h3>What are people saying about Grab-A-PuP</h3>
-    <p>"I love Grab-A-PuP! Best adoption agency ever!"</p>
+
+    "I love Grab-A-PuP! Best adoption agency ever!"
         <p>Gabriela Sanchez, Dallas TX </p>
     <p>"Adopted a puppy from Grab-A-PuP today, great customer service. Special place!"</p>
         <p>John Burken, Cedar Hill TX</p>
