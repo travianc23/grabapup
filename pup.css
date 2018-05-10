@@ -9,6 +9,10 @@
 	margin-top: -14px;
 	text-align: center;
 }
+.row .title a {
+	text-decoration: none;
+	color: #00DAEC;
+}
 footer {
 	font-size: 14px;
 	padding: 1em 0px;
