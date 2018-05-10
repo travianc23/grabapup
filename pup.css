@@ -39,3 +39,13 @@ body {
 	text-shadow: 0px 0px;
 	border-bottom: thick solid #00DAEC;
 }
+.row .col-sm-3 h3 {
+	color: #007AFF;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: normal;
+	font-weight: 400;
+	font-variant: small-caps;
+	font-size: 23px;
+	text-shadow: 0px 0px;
+	text-align: center;
+}
