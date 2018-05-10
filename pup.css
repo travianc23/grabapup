@@ -51,9 +51,8 @@ body {
 	text-align: center;
 }
 .locations{
-	color: #00DAEC;
+	color: color: #777777;
 	font-size: 14px;
-	text-decoration: none;
 	padding: 0px 10px;
 	margin-bottom: 5px;
 	color: #00DAEC;
@@ -67,7 +66,8 @@ body {
 	word-spacing: 6px;
 }
 .loc {
-	color: #777777;
+	color: #00DAEC;
+	text-decoration: none;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-style: normal;
 	font-variant: normal;
