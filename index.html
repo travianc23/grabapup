@@ -21,6 +21,44 @@
               <cite>Leo Green, Waxahachie TX</cite></blockquote>
           </blockquote>
         </aside>
+		 <article class="col-sm-6">
+       	
+       	<h1>Welcome to Grab-A-PuP</h1>
+       	<p><a href="adoption.html">Adopt a Pup Today!</a></p>
+       	<meta name="viewport" content="width=device-width, initial-scale=1">
+		  <div class="slide" style="max-width: 500px">
+		  		<img class="slidePic" src="adopt2.jpg" alt="slide1" style="width: 100%">
+		  		<img class="slidePic" src="adopt3.jpg" alt="slide2" style="width: 100%">
+			  	<img class="slidePic" src="adopt4.jpg" alt="slide3" style="width: 100%">
+		  </div>
+		  <script>
+		  	var myIndex = 0;
+			  carousel();
+			  
+			  function carousel()
+			  {
+				  var i;
+				  var x = document.getElementsByClassName("slidePic");
+				  for (i = 0; i < x.length; i++)
+					  {
+						  x[i].style.display = "none";
+					  }
+				  myIndex++;
+				  if (myIndex > x.length) {myIndex = 1}
+				  x[myIndex-1].style.display = "block";
+				  setTimeout(carousel, 5000); 
+			  }
+		  </script>
+					  <h3 class="locations">Locations</h3>
+	  <ol class="loc">
+            <ul>
+              <a href="https://goo.gl/maps/radYo6rNysm" class="loc">Dallas</a></ul>
+		  <ul> <a href="https://goo.gl/maps/iNLp5AbDvcR2" class="loc">Houston</a></ul>
+		  <ul><a href="https://goo.gl/maps/MdihQB67ByD2" class="loc">Cedar Hill</a></ul>
+          <ul><a href="https://goo.gl/maps/v6Dhss4jDUo" class="loc">Arlington</a></ul>
+		  <ul><a href="https://goo.gl/maps/pMfpRoduK1S2" class="loc">Waxahachie</a></ul>
+		  </ol>
+		  </article>
   </body>
 	   <footer>
 		   <h6 class="footer">&copy;2018 Grab-A-Pup / TMC Dev Grp&trade;. All rights reserved</h6>
