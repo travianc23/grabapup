@@ -49,3 +49,17 @@ body {
 	text-shadow: 0px 0px;
 	text-align: center;
 }
+.locations {
+	font-size: 55px;
+	padding: 0px 10px;
+	margin-bottom: 5px;
+	color: #00DAEC;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: center;
+	text-shadow: 1px 1px 4px #69F2FF;
+	letter-spacing: 0px;
+	word-spacing: 6px;
+}
