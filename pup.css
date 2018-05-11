@@ -1,5 +1,5 @@
 .navigation{
-	width: 100%;
+	width: 50%;
 	background-color: #00DAEC;
 	background-image: -o-linear-gradient(270deg,rgba(0,119,128,1.00) 4.66%,rgba(0,218,236,1.00) 36.79%);
 	overflow: auto;
@@ -15,9 +15,6 @@
 }
 .navigation a:hover{
 	background-color: #000;
-}
-.active{
-	background-color: #4CAF50 !important;
 }
 .title {
 	color: #00DAEC;
