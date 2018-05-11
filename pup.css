@@ -5,7 +5,6 @@
 	overflow: auto;
 }
 .navigation a{
-	float:left;
 	width:15%;
 	text-align: center;
 	padding: 12px 0;
