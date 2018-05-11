@@ -79,7 +79,7 @@
 	background-image: -o-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
 	background-image: linear-gradient(180deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
 }
-.sidenav{
+.sidenav2{
 	height:100%;
 	width: 160px;
 	position: fixed;
@@ -94,7 +94,7 @@
 	overflow-x: hidden;
 	padding-top: 20px;
 }
-.sidenav a{
+.sidenav2 a{
 	padding: 6px 8px 6px 16px;
 	text-decoration: none;
 	font-size: 25px;
@@ -105,7 +105,7 @@
 	background-image: linear-gradient(180deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);	
 	display: block;
 }
-.sidenav a:hover{
+.sidenav2 a:hover{
 	color: #FFC;
 	background-image: -webkit-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
 	background-image: -moz-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
