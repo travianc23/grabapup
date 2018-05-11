@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+   <html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="pup.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<title>GrabAPup Home</title>
+	</head>
+	<body> 
+		<div class="navigation">
+			<a href="contact.html"><i class="fa fa-home"></i></a>
+			<a href="contact.html"><i class="fa fa-envelope"></i></a>
+			<a href="pupteam.html"><i class="fa fa-globe"></i></a>
+			<a href="donation.html"><i class="fa fa-shopping-cart"></i></a>
+			<a href="about.html"><i class="fa fa-user icon"></i></a>
+		</div> 
+		<h1 class="title"><a href="index.html">GrabAPup</a></h1>
+		<h2 class="title2">Welcome to the #1 Adoption Agency in Texas</h2>
+	   </body>
+	   <footer>
+		   <h2 class="footer">&copy;2018 Grab-A-Pup / TMC Creative Group&trade;. All rights reserved</h2>
+	   </footer>
+</html>
