@@ -224,6 +224,7 @@ span.price{
 	color:grey;
 }
 footer h2{
+	font-size: 12px;
 	padding: 1em 0px;
 	color: #FFC;
 	background-image: -webkit-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
@@ -233,5 +234,4 @@ footer h2{
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	font-style: normal;
 	font-variant: normal;
-	font-size: 12px;
 }
