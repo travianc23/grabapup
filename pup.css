@@ -223,6 +223,17 @@ span.price{
 	float:right;
 	color:grey;
 }
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	max-width:300px;
+	margin:auto;
+	text-align:center;
+	font-family:arial;
+}
+.titl{
+	color:grey;
+	font-size:16px;
+}
 footer h2{
 	font-size: 12px;
 	padding: 1em 0px;
