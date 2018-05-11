@@ -1,23 +1,23 @@
 .navigation{
-	list-style-type: none;
-	margin:0;
-	padding:0;
-	overflow: hidden;
+	width: 100%;
 	background-color: #00ABFF;
 	background-image: -o-linear-gradient(270deg,rgba(0,119,128,1.00) 4.66%,rgba(0,218,236,1.00) 36.79%);}
+	overflow: auto;
 }
-.opt{
+.navigation a{
 	float:left;
-}
-.opt a{
-	display: block;
+	width:20%;
+	text-align: center;
+	padding: 12px 0;
+	transition: all 0.3s ease;
 	color: white;
-	text-align:center;
-	padding: 14px 16px;
-	text-decoration: none;
+	font-size: 36px;
 }
-.opt a:hover{
-	background-color:#00ABFF;
+.navigation a:hover{
+	background-color: #000;
+}
+.active{
+	background-color: #4CAF50 !important;
 }
 .title {
 	color: #00DAEC;
