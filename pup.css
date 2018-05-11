@@ -17,6 +17,8 @@
 	background-color: #000;
 }
 .title {
+	position:sticky;
+	top:0;
 	color: #00DAEC;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
 	font-style: normal;
