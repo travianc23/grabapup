@@ -53,7 +53,11 @@
 	z-index: 1;
 	top: 0;
 	left: 0;
-	background-color: #111;
+	color: #FFC;
+	background-image: -webkit-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
 	overflow-x: hidden;
 	padding-top: 20px;
 }
@@ -61,12 +65,19 @@
 	padding: 6px 8px 6px 16px;
 	text-decoration: none;
 	font-size: 25px;
-	color: #818181;
+	color: #FFC;
+	background-image: -webkit-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);	
 	display: block;
 }
 .sidenav a:hover{
-	color:#f1f1f1;
-}
+	color: #FFC;
+	background-image: -webkit-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);}
 .sidet{
 	color: #777777;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
@@ -95,18 +106,6 @@
 	font-weight: normal;
 	font-size: 12px;
 	text-align: center;
-}
-footer {
-	padding: 1em 0px;
-	color: #FFC;
-	background-image: -webkit-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
-	background-image: -moz-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
-	background-image: -o-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
-	background-image: linear-gradient(180deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-	font-style: normal;
-	font-variant: normal;
-	font-size: 16px;
 }
 body {
 	background-color: #F8F8F8;
@@ -144,4 +143,16 @@ body {
 	text-transform: capitalize;
 	margin-top: 16px;
 	margin-left: 44px;
+}
+footer {
+	padding: 1em 0px;
+	color: #FFC;
+	background-image: -webkit-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,218,236,1.00) 59.07%,rgba(0,104,112,1.00) 100%);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: normal;
+	font-variant: normal;
+	font-size: 16px;
 }
